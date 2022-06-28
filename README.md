@@ -1,4 +1,4 @@
-# Streamlit Détection de défauts
+# Streamlit Détection de défauts (FR)
 
 ## Description
 
