@@ -1,4 +1,4 @@
-# Streamlit Détection de défauts (FR)
+# Streamlit Détection de défauts industriels sur de l'acier (FR)
 
 ## Description
 
