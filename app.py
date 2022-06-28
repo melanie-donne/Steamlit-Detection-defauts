@@ -59,10 +59,10 @@ def load_model(model_path, device_inference="cpu"):
 model = load_model(MODEL_PATH, DEVICE_INFERENCE)
 
 # Main page
-st.title("Steel Defect Detection")
+st.title("Détection de défauts industriels sur de l'acier")
 st.write(
     """
-        Usually, there is some trouble in production machines and steel defects because of heating and rolling, drying and cutting, several machines touch flat steel. Because of that, steel has been defected from production. The purpose of this project is to give an image of steel, after that we need to detect segmentation defects in steel.
+    Il est d'usage de retrouver des problèmes sur les machines de production et des défauts sur l'acier. Le but de ce projet est de donner une image de l'acier, après quoi nous devons détecter des défauts de segmentation dans l'acier. Créé avec HarDNet pour les modèles de segmentation et rationalisé pour le déploiement de sites Web.
 """
 )
 st.markdown("  ")
