@@ -3,8 +3,9 @@
 ## Description
 
 Il est d'usage de retrouver des problèmes sur les machines de production et des défauts sur l'acier. Le but de ce projet est de donner une image de l'acier, après quoi nous devons détecter des défauts de segmentation dans l'acier. Créé avec HarDNet pour les modèles de segmentation et rationalisé pour le déploiement de sites Web.
-
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/44894678/176181206-a9b90ec5-5e46-4a23-97bd-5fca1be01ce3.png" />
+</p>
 ## Installation
 
 ```bash
