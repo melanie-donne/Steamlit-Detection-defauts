@@ -68,4 +68,5 @@ optional arguments:
 $ streamlit run app.py -- --device CUDA --model model.onnx
 ```
 
-© Developed by [MDI](https://github.com/Morue)
+
+
