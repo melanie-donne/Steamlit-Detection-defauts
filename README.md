@@ -10,7 +10,7 @@ Il est d'usage de retrouver des problèmes sur les machines de production et des
 
 ```bash
 # Python version 3.7.9 or newer
-$ git clone https://github.com/Morue/Steamlit-Detection-defauts.git
+$ git clone https://github.com/melanie-donne/Steamlit-Detection-defauts.git
 $ pip3 install -r requirements.txt
 $ python3 download_model.py
 ```
@@ -32,7 +32,7 @@ optional arguments:
 $ streamlit run app.py -- --device CUDA --model model.onnx
 ```
 
-© Developed by [MDI](https://github.com/Morue)
+© Developed by [MDO]([https://github.com/melanie-donne])
 
 
 
@@ -46,7 +46,7 @@ Usually, there is some trouble in production machines and steel defects. The pur
 
 ```bash
 # Python version 3.7.9 or newer
-$ git clone https://github.com/Morue/Steamlit-Detection-defauts.git
+$ git clone https://github.com/melanie-donne/Steamlit-Detection-defauts.git
 $ pip3 install -r requirements.txt
 $ python3 download_model.py
 ```
